@@ -1,7 +1,5 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# GitHub Codespaces du cours de fouille de données spatio-temporelles
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+Ce codespace vous permet de faire les TD en lignes sans avoir à installer l'environnement de développement (à savoir Anaconda ou miniconda, Jupyter Notebooks, Python 3).
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+Si vous souhaitez tout de même travailler sur votre machine, vous pouvez mettre en place cet environnement de développement en suivant le tutoriel donné [ici](https://kodu.ut.ee/~kmoch/geopython2021/L0/overview.html).
