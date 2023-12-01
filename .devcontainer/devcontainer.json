@@ -4,8 +4,11 @@
     "cpus": 4
   },
   "waitFor": "onCreateCommand",
-  "updateContentCommand": "python3 -m pip install -r requirements.txt",
-  "postCreateCommand": "conda update -y conda",
+  "updateContentCommand": {
+    "python": "python3 -m pip install -r requirements.txt",
+    "conda": "conda update -y conda"
+  },
+  "postCreateCommand": "",
   "customizations": {
     "codespaces": {
       "openFiles": []
